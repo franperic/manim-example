@@ -133,6 +133,4 @@ poetry*
 pyproject*
 .DS_Store
 *.tex
-*.mp4
 partial*
-TimeSeriesPlot_Manim*
