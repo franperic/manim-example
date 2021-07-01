@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+media/Tex/*
+.bash*
+poetry*
+pyproject*
+.DS_Store
+*.tex
+*.mp4
+partial*
+TimeSeriesPlot_Manim*
