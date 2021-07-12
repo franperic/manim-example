@@ -5,7 +5,7 @@ This repo shows a small example how to use tabular data with the visualization f
 
 The used data can be reproduced using the data_generation.py script.
 
-For general information how to use the framework please refer to [manim](https://www.manim.community/))
+For general information how to use the framework please refer to [manim](https://www.manim.community/).
 
 ## Plot
 Create a lineplot with timeseries data.
